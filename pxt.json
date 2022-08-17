@@ -1,5 +1,5 @@
 {
-    "name": "maqueen",
+    "name": "maqueen-motor-control",
     "description": "",
     "dependencies": {
         "core": "*",
